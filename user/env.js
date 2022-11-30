@@ -13,6 +13,7 @@ window.settings = {
   },
   // 背景
   background_url: 'https://dmoe.sskfy.com',
+  logo: 'https://degyax.com/favicon.png',
   // crisp
   crisp_id: '',
   i18n: [

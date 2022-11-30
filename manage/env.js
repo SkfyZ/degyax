@@ -11,5 +11,5 @@ window.settings = {
   },
   // 背景
   background_url: 'https://dmoe.sskfy.com',
-  logo: 'https://degyax.com/favicon.ico'
+  logo: 'https://degyax.com/favicon.png'
 }
