@@ -12,8 +12,8 @@ window.settings = {
     color: 'default'
   },
   // 背景
-  background_url: 'https://dmoe.sskfy.com',
-  logo: 'https://degyax.com/bg.jpg',
+  background_url: 'https://degyax.com/bg.jpg',
+  logo: 'https://degyax.com/logo.ico',
   // crisp
   crisp_id: '',
   i18n: [
