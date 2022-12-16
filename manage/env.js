@@ -11,5 +11,6 @@ window.settings = {
   },
   // 背景
   background_url: 'https://dmoe.sskfy.com',
-  logo: 'https://degyax.com/logo.ico'
+  logo: 'https://degyax.com/logo.ico',
+  secure_path: 'admin'
 }
